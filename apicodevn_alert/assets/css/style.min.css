@@ -10,7 +10,7 @@
 }
 
 .alert-container {
-    min-height: 20vh;
+    min-height: 10vh;
     position: absolute;
     background-color: #474747;
     top: 5px;
